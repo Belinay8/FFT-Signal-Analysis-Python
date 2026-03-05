@@ -13,7 +13,8 @@ concepts using Fast Fourier Transform (FFT).
 - Python
 - NumPy
 - Matplotlib
-<img width="1474" height="640" alt="output" src="https://github.com/user-attachments/assets/17b80f90-2308-4936-912b-4a51893da40d" />
+<img width="1488" height="614" alt="output" src="https://github.com/user-attachments/assets/0a52aaa9-4cea-4fdc-9211-068add6a393b" />
+
 
 ---
 
